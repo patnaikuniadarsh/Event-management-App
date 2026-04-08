@@ -7,7 +7,7 @@
 **Responsibility:** Complete Figma design, prototyping, documentation, and repository management.
 
 
-## 👥 Team Members (Alphabetical Order)
+## 👥 Team Members 
 
 | Roll Number | Name |
 |-------------|------|
