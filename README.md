@@ -1,13 +1,10 @@
-# 🎉 EnjoyEvents – Event Management App
-
----
+#  EnjoyEvents – Event Management App
 
 ## 👨‍💻 GitHub Account Owner
 
-> ## 🔥 Patnaikuni Adarsh (A24126510152)
+> ##  Patnaikuni Adarsh (A24126510152)
 
-> **GitHub:** [github.com/patnaikuniadarsh](https://github.com/patnaikuniadarsh)  
-> **Responsibility:** Complete Figma design, prototyping, documentation, and repository management.
+**Responsibility:** Complete Figma design, prototyping, documentation, and repository management.
 
 ---
 
